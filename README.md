@@ -9,3 +9,6 @@ Welcome to my Weather app
 
 2.Index.html file
 - You may import fonts from google to spice up the look of your weather app
+
+3.Style.css
+- My favorite part was adding the background image. You may use opensource.com or an image saved on your computer.
