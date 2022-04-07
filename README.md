@@ -6,3 +6,6 @@ Welcome to my Weather app
 - Go to Openweathermap.org and create an account 
 - Generate a API key and place it inside of the app.js file
 *It may take up to 30 mins to an hour for your API info to be avaiable after creating an account*
+
+2.Index.html file
+- You may import fonts from google to spice up the look of your weather app
