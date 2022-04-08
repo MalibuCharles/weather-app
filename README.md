@@ -13,3 +13,6 @@ Welcome to my Weather app
 
 3.Style.css
 - My favorite part was adding the background image. You may use opensource.com or an image saved on your computer.
+
+
+** In the Index.html file make sure to add defered to the script line so your search button works
