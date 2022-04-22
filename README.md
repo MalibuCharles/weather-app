@@ -1,5 +1,5 @@
 # weather-app
-Welcome to my Weather app
+Welcome to my Weather website
 
 1.Lets Talk API's
 - In the app.js file you need to upload API info
